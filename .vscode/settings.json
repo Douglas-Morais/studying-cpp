@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.html": "html",
+    "*.ssh": "ssh_config",
+    "ostream": "cpp"
+  }
+}
